@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TriangleDown",
+    "texture": "045d8e72-26a0-46f9-86cb-9c7931dd11b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      187,
+      95
+    ]
+  }
+}

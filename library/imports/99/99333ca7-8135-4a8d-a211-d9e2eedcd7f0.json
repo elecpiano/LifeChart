@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Edit",
+    "texture": "4edb6476-a4d0-49e9-b611-1e8d09cc78fc",
+    "atlas": "",
+    "rect": [
+      8,
+      5,
+      84,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

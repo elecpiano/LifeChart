@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TriangleUp",
+    "texture": "992cb27c-2289-4657-8cf8-13b85c54ef5e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      187,
+      95
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+2018-10-11T01:12:09.805Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-11T01:12:09.808Z - normal: checking language setting...
+2018-10-11T01:12:09.808Z - normal: Language: zh
+2018-10-11T01:12:10.570Z - success: protocol editor-framework registered
+2018-10-11T01:12:10.570Z - success: protocol app registered
+2018-10-11T01:12:10.571Z - success: protocol theme registered
+2018-10-11T01:12:10.571Z - success: protocol packages registered
+2018-10-11T01:12:10.571Z - success: protocol unpack registerred
+2018-10-11T01:12:10.571Z - success: protocol disable-commonjs registerred
+2018-10-11T01:12:10.874Z - normal: connected!
+2018-10-11T01:12:10.875Z - normal: Check project /Users/jason/Documents/SourceCode/LifeNumber
+2018-10-11T01:12:10.877Z - normal: Initializing Cocos2d
+2018-10-11T01:12:11.096Z - normal: Initializing Asset Database
+2018-10-11T01:12:11.126Z - success: protocol uuid registerred
+2018-10-11T01:12:11.126Z - success: protocol db registerred
+2018-10-11T01:12:11.127Z - success: protocol thumbnail registerred
+2018-10-11T01:12:11.127Z - normal: Loading editor/builtin packages
+2018-10-11T01:12:11.145Z - success: anysdk loaded
+2018-10-11T01:12:11.258Z - success: assets loaded
+2018-10-11T01:12:11.262Z - success: builder loaded
+2018-10-11T01:12:11.264Z - success: cocos-analytics loaded
+2018-10-11T01:12:11.268Z - success: console loaded
+2018-10-11T01:12:11.298Z - success: fb-instant-games loaded
+2018-10-11T01:12:11.302Z - success: hierarchy loaded
+2018-10-11T01:12:11.306Z - success: inspector loaded
+2018-10-11T01:12:11.307Z - success: keystore loaded
+2018-10-11T01:12:11.314Z - success: node-library loaded
+2018-10-11T01:12:11.317Z - success: package-asset loaded
+2018-10-11T01:12:11.319Z - success: preferences loaded
+2018-10-11T01:12:11.322Z - success: project-exporter loaded
+2018-10-11T01:12:11.335Z - success: project-importer loaded
+2018-10-11T01:12:11.338Z - success: project-settings loaded
+2018-10-11T01:12:11.342Z - success: ui-kit loaded
+2018-10-11T01:12:11.346Z - success: ui-grid loaded
+2018-10-11T01:12:11.350Z - success: scene loaded
+2018-10-11T01:12:11.351Z - success: sprite-editor loaded
+2018-10-11T01:12:11.355Z - success: store loaded
+2018-10-11T01:12:11.361Z - success: timeline loaded
+2018-10-11T01:12:11.361Z - normal: Loading builtin packages
+2018-10-11T01:12:11.365Z - success: asset-db-debugger loaded
+2018-10-11T01:12:11.366Z - success: color-picker loaded
+2018-10-11T01:12:11.369Z - success: package-manager loaded
+2018-10-11T01:12:11.374Z - success: sdkbox loaded
+2018-10-11T01:12:11.380Z - success: tester loaded
+2018-10-11T01:12:11.383Z - success: ui-kit-preview-extra loaded
+2018-10-11T01:12:11.386Z - success: ui-kit-preview loaded
+2018-10-11T01:12:11.391Z - success: ui-tree loaded
+2018-10-11T01:12:12.376Z - normal: Initializing project /Users/jason/Documents/SourceCode/LifeNumber
+2018-10-11T01:12:12.398Z - normal: Loading packages
+2018-10-11T01:12:12.404Z - normal: Watching packages
+2018-10-11T01:12:12.418Z - normal: Run Application
+2018-10-11T01:12:13.149Z - success: preview server running at http://localhost:7456
+2018-10-11T01:12:18.275Z - normal: 1.9.1
+2018-10-11T01:21:08.095Z - info: shutdown preview server

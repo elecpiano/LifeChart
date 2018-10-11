@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Favorite",
+    "texture": "8f8e1b9a-d672-476a-a844-6e405b35a2e7",
+    "atlas": "",
+    "rect": [
+      10,
+      4,
+      79,
+      92
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

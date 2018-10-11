@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ItemUnchecked",
+    "texture": "1dca1270-0293-4c51-8aa4-1da94fe69cf0",
+    "atlas": "",
+    "rect": [
+      6,
+      7,
+      88,
+      88
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

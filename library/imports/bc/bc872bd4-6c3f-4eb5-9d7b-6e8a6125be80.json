@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ItemChecked",
+    "texture": "875534b6-ab8f-4884-9a7a-09cb2bd42b23",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      88,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GoBack",
+    "texture": "d7b080ac-dc51-4f7a-8934-a01cc055db0e",
+    "atlas": "",
+    "rect": [
+      10,
+      4,
+      79,
+      92
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

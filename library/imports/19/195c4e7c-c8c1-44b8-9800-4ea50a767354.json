@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DeleteItem",
+    "texture": "70cc9f89-c774-4618-b7b0-24d7ea703906",
+    "atlas": "",
+    "rect": [
+      14,
+      14,
+      73,
+      73
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}

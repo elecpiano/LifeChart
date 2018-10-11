@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notebook",
+    "texture": "e5ce5d08-8bea-4f2e-ab48-d5aee75f4b9a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      613,
+      812
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      613,
+      812
+    ]
+  }
+}

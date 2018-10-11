@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MultiSelectOK",
+    "texture": "55bd8b59-45e9-449d-99ac-2d2bbe07cc24",
+    "atlas": "",
+    "rect": [
+      10,
+      4,
+      79,
+      92
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ]
+  }
+}
